@@ -11,11 +11,11 @@ The **IP Address Monitor** Chrome extension allows users to monitor IP addresses
 - Resolves IP addresses of the requested resources using a web-based API.
 - Logs the IP addresses with associated URLs and timestamps.
 - Provides a popup interface to view the logs.
+- 
 ## Installation
-
  **Download or Clone the Repository**
 
-   ```bash
+   -bash
    git clone https://github.com/sscafi/chromeIP.git
 ## Prerequisites
 
